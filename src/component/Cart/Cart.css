@@ -5,3 +5,13 @@
     position: sticky;
     top: 0;
 }
+.btn-clear{
+    width: 90%;
+    margin: 10px auto;
+    color: white;
+    background-color: #e21f1f;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

@@ -9,3 +9,16 @@
     gap: 50px;
     margin: 80px;
 }
+.btn-proceed{
+    width: 90%;
+    margin: 10px auto;
+    color: white;
+    background-color: #e28a1f;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.proceed-link{
+text-decoration: none;
+}
